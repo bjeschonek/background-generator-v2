@@ -1,5 +1,5 @@
-# background-generator-v2
+# Background Generator Version 2
 
-This is a simple website that allows anybody to create a gradient background using 2 colors. It also features a random button which will choose 2 random colors. 
+This is a simple website that allows a user to create a gradient background by choosing 2 colors - alternatively, the user can click the "random" button to have 2 random colors generated. Once a new background is generated, the website displays the CSS attribute to recreate the gradient with RGB colors. 
 
-The purpose of this project is to display my experience of using DOM manipulation to make an interactive web page. 
+This project requires the use of DOM manipulation to alter the display of the webpage and Javascript functions to take the color inputs and display the desired result. 
