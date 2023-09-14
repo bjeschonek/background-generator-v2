@@ -19,7 +19,7 @@ h1, h2, h3 {
 }
 
 h1 {
-    font-size: 2.5em;
+    font-size: 3rem;
     font-weight: 600;
     margin-top: 5%;
 }
@@ -68,12 +68,16 @@ h3 {
 footer {
     background-color: #000;
     color: #fff;
+    height: 80px;
     text-transform: none;
-    height: 100px;
     position: absolute;
     bottom: 0;
     width: 100%;
     font-weight: 600;
     padding-top: 20px;
     letter-spacing: normal;
+}
+
+footer a {
+    color: gray;
 }
